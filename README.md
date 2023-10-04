@@ -1,3 +1,7 @@
+#Fjorian Musaraj    Student ID   101462447           LINK: https://github.com/fjorianm/lab1.git
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
